@@ -1,30 +1,43 @@
 Call guessing function
 Function takes 2 para (numToGuess) and (TotalGuesses)
-flowchart//
-Guess(number3 with 10 tries)// editable by developer
+Guess(number with 10 default tries)// editable by developer
 set default number of guesses to 10
 function returns number of guesses(0 if person did not suceed)//(the number of tries the person suceeded)
 
 range is from 1 to 100
 guess>actual help (X is to small guess larger number)
 guess<actual help (X is to larger guess smaller number)
+invalid entry don't count it as guess and tell user to input a num
 
-page should say users should enter a number between 1 to 100
-invalid entry don't count it as guess and tell user to input a number
+1. Full-stack Developer: Proficient in both front-end and back-end development, capable of handling the entire software development process. 2. Front-end Developer: Specializes in creating user interfaces and experiences using HTML, CSS, and JavaScript. 3. Back-end Developer: Focuses on server-side programming, database management, and implementing the business logic of software applications. 4. Mobile App Developer: Specializes in developing applications for mobile devices using platform-specific languages (e.g., Java or Swift) or cross-platform frameworks (e.g., React Native or Flutter). 5. DevOps Engineer: Combines software development with IT operations, ensuring efficient software delivery, deployment, and infrastructure management. 6. Quality Assurance Engineer: Responsible for testing software applications, identifying bugs or issues, and ensuring the quality and functionality of the software.
 
-algorithm//
-JavaScript Number Guessing Game:
-- Function: playGuessingGame(numToGuess, totalGuesses)
-- Parameters:
-   - numToGuess: Number that the user has to guess.
-   - totalGuesses: Total number of allowed guesses (default: 10).
-- Returns: Number of guesses the user took to enter the correct number.
-- Functionality:
-   - Prompts the user to enter a number between 1 and 100.
-   - Provides feedback based on the user's previous guesses.
-   - Handles cases of invalid input and empty strings.
-   - If the user cancels, the function returns 0.
-- Testing: Call playGuessingGame() from the JavaScript console to test the code.
+Various roles in software development include:
 
+1. Front-end Developer
+2. Back-end Developer
+3. Full-stack Developer
+4. Mobile App Developer
+5. Software Architect
+6. DevOps Engineer
+7. Data Scientist
+8. Quality Assurance Engineer
+9. UI/UX Designer
+10. Database Administrator
+11. Systems Analyst
+12. Software Engineer
+13. Embedded Systems Developer
+14. Game Developer
+15. Security Engineer
 
+Through my research assignment on Summit Tech and the programming task of constructing a JavaScript number guessing game, I have gained valuable insights into the company's offerings and the practical application of my career path
+
+echo "# SUMMITTECH" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Orock-tk97/SUMMITTECH.git
+git push -u origin main
+
+https://github.com/Orock-tk97/SUMMITTECH.git
 
